@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Panorama",
+  "base_artist": "IZ*ONE",
+  "createdAt": "2025-12-24T15:01:08.702010Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "$100 (live at Panorama Bar)",
+      "artist": "Captain Comatose",
+      "has_synced": false,
+      "path": "select/01_$100_(live_at_Panorama_Bar)_Captain_Comatose.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Panorama",
+      "artist": "The Cars",
+      "has_synced": true,
+      "path": "select/02_Panorama_The_Cars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Panorama (Clive Tanaka y Beaunoise Remix)",
+      "artist": "Groundislava",
+      "has_synced": false,
+      "path": "select/03_Panorama_(Clive_Tanaka_y_Beaunoise_Remix)_Groundislava.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Panorama",
+      "artist": "Groundislava feat. Jake Weary",
+      "has_synced": false,
+      "path": "select/04_Panorama_Groundislava_feat._Jake_Weary.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Panorama (feat. Jake Weary)",
+      "artist": "Groundislava",
+      "has_synced": false,
+      "path": "select/05_Panorama_(feat._Jake_Weary)_Groundislava.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Plastic Panorama",
+      "artist": "Postiljonen",
+      "has_synced": true,
+      "path": "select/06_Plastic_Panorama_Postiljonen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Astonishing Panorama of the Endtimes",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/07_Astonishing_Panorama_of_the_Endtimes_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Panorama",
+      "artist": "Voivod",
+      "has_synced": false,
+      "path": "select/08_Panorama_Voivod.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Il Panorama Di Betlemme",
+      "artist": "Francesco De Gregori",
+      "has_synced": true,
+      "path": "select/09_Il_Panorama_Di_Betlemme_Francesco_De_Gregori.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Il panorama di Betlemme",
+      "artist": "Francesco De Gregori",
+      "has_synced": true,
+      "path": "select/10_Il_panorama_di_Betlemme_Francesco_De_Gregori.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Il panorama di betlemme - Live 2016",
+      "artist": "Francesco De Gregori",
+      "has_synced": true,
+      "path": "select/11_Il_panorama_di_betlemme_-_Live_2016_Francesco_De_Gregori.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Americana Panorama",
+      "artist": "10cc",
+      "has_synced": false,
+      "path": "select/12_Americana_Panorama_10cc.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Panorama City",
+      "artist": "Hopsin feat. Joey Tee",
+      "has_synced": true,
+      "path": "select/13_Panorama_City_Hopsin_feat._Joey_Tee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Panorama City",
+      "artist": "Hopsin",
+      "has_synced": true,
+      "path": "select/14_Panorama_City_Hopsin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Panorama",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/15_Panorama_IZ_ONE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Panorama",
+      "artist": "Abyusif",
+      "has_synced": true,
+      "path": "select/16_Panorama_Abyusif.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Panorama",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/pl_01_Panorama_IZ_ONE.txt"
+    }
+  ]
+}
